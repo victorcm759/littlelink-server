@@ -1,3 +1,6 @@
+# LittleLink
+This project is a fork from [Techno Tim's original project](https://github.com/techno-tim/littlelink-server)
+
 # 🔗 LittleLink-Server
 
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
